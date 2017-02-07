@@ -34,7 +34,7 @@
         "host": "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Host.png",
         "cohost": "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_CoHost.png",
         "manager": "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Manager.png",
-        "bouncer": "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Bouncer.png,
+        "bouncer": null,
         "rdj": "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_RDJ.png",
         "subscriber": null,
         "silversubscriber": null
